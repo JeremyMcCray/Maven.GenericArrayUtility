@@ -36,7 +36,7 @@ public class ArrayUtility<T> {
                 counter++;
             }
         }
-        
+
         for (int i = 0; i < buffer.length; i++) {
 
         }
